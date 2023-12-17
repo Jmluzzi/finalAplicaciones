@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "finalAplicaciones",
+    "slug": "finalAplicaciones",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
