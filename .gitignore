@@ -11,6 +11,10 @@ node_modules/
 *.apk
 *.ipa
 
+#archivos de yarn
+yarn-error.log
+yarn.lock
+
 # archivos de react
 android/
 ios/
