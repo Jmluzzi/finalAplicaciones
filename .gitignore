@@ -1,7 +1,16 @@
+# archivos de npm
 node_modules/
+npm-debug.log
+
+# archivos de expo
 .expo/
-.vscode/
+node_modules/
+.DS_Store
+*.bak
+*.tmp
+*.apk
+*.ipa
+
+# archivos de react
 android/
 ios/
-build/
-npm-debug.log
